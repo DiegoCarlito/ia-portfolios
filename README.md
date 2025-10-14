@@ -1,6 +1,6 @@
-# Portfólio 2 - Métodos Clássicos de IA
+# Inteligência Artificial (FGA0221) - Portfólios
 
-Repositório com os projetos desenvolvidos para a disciplina de Inteligência Artificial (FGA0221) da Universidade de Brasília (UnB).
+Repositório com os portfólios desenvolvidos para a disciplina de Inteligência Artificial da Universidade de Brasília (UnB).
 
 **Autor:** Diego Carlito Rodrigues de Souza
 
@@ -12,40 +12,20 @@ Repositório com os projetos desenvolvidos para a disciplina de Inteligência Ar
 
 ---
 
-## 🎯 Sobre o Projeto
+## Portfólios
 
-Este repositório contém 6 projetos práticos que abordam os fundamentos dos métodos clássicos de Inteligência Artificial, desde algoritmos de busca até agentes baseados em conhecimento. Todos os projetos foram desenvolvidos em Python.
+### Portfólio 1 - Introdução à Inteligência Artificial
 
-## 📚 Tabela de Projetos
+Este portfólio consiste em uma resenha crítica ampliada sobre o tema "Introdução à Inteligência Artificial". O trabalho envolve um resumo do conteúdo apresentado em aula, complementado por uma análise aprofundada baseada em pesquisa bibliográfica externa, culminando em uma análise sobre os pontos fortes, limitações e implicações do tema.
 
-| # | Projeto | Problema Resolvido | Conceitos Aplicados |
-|:---:|:---|:---|:---|
-| 01 | [Busca Não Informada](./projetos/01-busca-nao-informada/) | Resolução de Labirinto | `Busca em Largura (BFS)`, `Busca em Profundidade (DFS)` |
-| 02 | [Busca Informada](./projetos/02-busca-informada/) | Quebra-Cabeça de 8 Peças | `Busca Gulosa`, `Busca A* (A-Star)`, `Heurísticas` |
-| 03 | [Busca Complexa](./projetos/03-busca-complexa/) | Jogo da Velha | `Busca Adversária`, `Algoritmo Minimax` |
-| 04 | [Algoritmo Genético](./projetos/04-algoritmo-genetico/) | Problema do Caixeiro Viajante (TSP) | `Seleção`, `Crossover`, `Mutação`, `Função de Fitness` |
-| 05 | [CSP](./projetos/05-csp/) | Problema das N-Rainhas | `Problemas de Satisfação de Restrições`, `Backtracking` |
-| 06 | [Banco de Conhecimentos](./projetos/06-banco-de-conhecimentos/) | Mundo de Wumpus Simplificado | `Agentes Lógicos`, `Base de Conhecimento`, `Inferência Proposicional` |
+* **[Visualizar a Resenha Crítica (PDF)](./portfolio-1/resenha_introducao_ia.pdf)**
 
----
+### Portfólio 2 - Métodos Clássicos de IA
 
-## 🚀 Como Executar
+Este portfólio contém 6 projetos práticos que abordam os fundamentos dos métodos clássicos de Inteligência Artificial, desde algoritmos de busca até agentes baseados em conhecimento. Todos os projetos foram desenvolvidos em Python.
 
-Cada projeto está em sua própria pasta e contém seu código-fonte e documentação. Para executar um projeto específico:
+* **[Acessar Projetos do Portfólio 2](./portfolio2/)**
 
-1.  Clone o repositório:
-    ```bash
-    git clone https://github.com/DiegoCarlito/ia-portfolio2.git
-    cd ia-portfolio2
-    ```
-2.  Navegue até a pasta do projeto desejado:
-    ```bash
-    cd projetos/01-busca-nao-informada/codigo/
-    ```
-3.  Execute o script Python:
-    ```bash
-    python3 busca_labirinto.py
-    ```
 ---
 
 ## 📄 Licença
