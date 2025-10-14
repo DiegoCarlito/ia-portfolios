@@ -3,9 +3,12 @@
 Repositório com os projetos desenvolvidos para a disciplina de Inteligência Artificial (FGA0221) da Universidade de Brasília (UnB).
 
 **Autor:** Diego Carlito Rodrigues de Souza
+
 **Matrícula:** 221007690
+
 **Professor:** Fabiano Araujo Soares
-**Semestre:** 2º/2025
+
+**Semestre:** 2025/2
 
 ---
 
