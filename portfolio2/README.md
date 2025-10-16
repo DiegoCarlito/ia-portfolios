@@ -24,7 +24,7 @@ Cada projeto está em sua própria pasta e contém seu código-fonte e documenta
 1.  A partir da pasta `portfolio2`, navegue até a pasta do projeto desejado:
     ```bash
     # Exemplo para o projeto 1
-    cd 01-busca-nao-informada/codigo/
+    cd 01-busca-nao-informada/
     ```
 2.  Execute o script Python:
     ```bash
