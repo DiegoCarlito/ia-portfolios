@@ -18,7 +18,7 @@ Repositório com os portfólios desenvolvidos para a disciplina de Inteligência
 
 Este portfólio consiste em uma resenha crítica ampliada sobre o tema "Introdução à Inteligência Artificial". O trabalho envolve um resumo do conteúdo apresentado em aula, complementado por uma análise aprofundada baseada em pesquisa bibliográfica externa, culminando em uma análise sobre os pontos fortes, limitações e implicações do tema.
 
-* **[Visualizar a Resenha Crítica (PDF)](./portfolio-1/resenha_introducao_ia.pdf)**
+* **[Visualizar a Resenha Crítica (PDF)](./portfolio1/resenha_introducao_ia.pdf)**
 
 ### Portfólio 2 - Métodos Clássicos de IA
 
