@@ -306,4 +306,3 @@ if __name__ == "__main__":
         
     except ValueError as e:
         print(f"Erro: {e}")
-
