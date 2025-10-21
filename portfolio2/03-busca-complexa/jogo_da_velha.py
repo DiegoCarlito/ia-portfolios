@@ -116,7 +116,6 @@ def jogar():
     print("="*30)
     print("Você joga como 'O'. A IA joga como 'X'.")
     
-    # --- MUDANÇA: Imprime o tabuleiro de referência ---
     imprimir_tabuleiro_referencia()
     
     while True:

@@ -1,8 +1,5 @@
-# Importa 'deque' para uma implementação eficiente de fila (Queue) para o BFS.
 from collections import deque
-# Importa 'textwrap' para lidar com a formatação de strings multi-linhas (o labirinto).
 import textwrap
-# Importa 'time' para medir o tempo de execução de cada algoritmo.
 import time
 
 class No:
