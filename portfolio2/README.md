@@ -8,12 +8,12 @@ Este repositório contém 6 projetos práticos que abordam os fundamentos dos m�
 
 | # | Projeto | Problema Resolvido | Conceitos Aplicados |
 |:---:|:---|:---|:---|
-| 01 | [Busca Não Informada](./01-busca-nao-informada/) | Resolução de Labirinto | `Busca em Largura (BFS)`, `Busca em Profundidade (DFS)` |
-| 02 | [Busca Informada](./02-busca-informada/) | Quebra-Cabeça de 8 Peças | `Busca Gulosa`, `Busca A* (A-Star)`, `Heurísticas` |
-| 03 | [Busca Complexa](./03-busca-complexa/) | Jogo da Velha | `Busca Adversária`, `Algoritmo Minimax` |
-| 04 | [Algoritmo Genético](./04-algoritmo-genetico/) | Problema do Caixeiro Viajante (TSP) | `Seleção`, `Crossover`, `Mutação`, `Função de Fitness` |
-| 05 | [CSP](./05-csp/) | Problema das N-Rainhas | `Problemas de Satisfação de Restrições`, `Backtracking` |
-| 06 | [Banco de Conhecimentos](./06-banco-de-conhecimentos/) | Mundo de Wumpus Simplificado | `Agentes Lógicos`, `Base de Conhecimento`, `Inferência Proposicional` |
+| 01 | [Busca Não Informada](./busca-nao-informada/) | Resolução de Labirinto | `Busca em Largura (BFS)`, `Busca em Profundidade (DFS)` |
+| 02 | [Busca Informada](./busca-informada/) | Quebra-Cabeça de 8 Peças | `Busca Gulosa`, `Busca A* (A-Star)`, `Heurísticas` |
+| 03 | [Busca Complexa](./busca-complexa/) | Jogo da Velha | `Busca Adversária`, `Algoritmo Minimax` |
+| 04 | [Algoritmo Genético](./algoritmo-genetico/) | Problema do Caixeiro Viajante (TSP) | `Seleção`, `Crossover`, `Mutação`, `Função de Fitness` |
+| 05 | [CSP](./csp/) | Problema das N-Rainhas | `Problemas de Satisfação de Restrições`, `Backtracking` |
+| 06 | [Banco de Conhecimentos](./banco-de-conhecimentos/) | Mundo de Wumpus Simplificado | `Agentes Lógicos`, `Base de Conhecimento`, `Inferência Proposicional` |
 
 ---
 
@@ -24,7 +24,7 @@ Cada projeto está em sua própria pasta e contém seu código-fonte e documenta
 1.  A partir da pasta `portfolio2`, navegue até a pasta do projeto desejado:
     ```bash
     # Exemplo para o projeto 1
-    cd 01-busca-nao-informada/
+    cd busca-nao-informada/
     ```
 2.  Execute o script Python:
     ```bash
