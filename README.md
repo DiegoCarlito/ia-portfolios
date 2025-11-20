@@ -26,6 +26,12 @@ Este portfólio contém 6 projetos práticos que abordam os fundamentos dos mét
 
 * **[Acessar Projetos do Portfólio 2](./portfolio2/)**
 
+### Portfólio 3 - IA e Incerteza
+
+Este portfólio explora o raciocínio probabilístico e a tomada de decisão sob incerteza. Contém 3 projetos práticos focados na modelagem de sistemas especialistas, análise de séries temporais e rastreamento físico.
+
+* **[Acessar Projetos do Portfólio 3](./portfolio3/)**
+
 ---
 
 ## 📄 Licença
