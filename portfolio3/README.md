@@ -25,5 +25,5 @@ Cada projeto está em sua própria pasta e contém seu código-fonte e documenta
     ```
 2.  Execute o script Python:
     ```bash
-    python3 redes-bayesianas.py
+    python3 redes_bayesianas.py
     ```
