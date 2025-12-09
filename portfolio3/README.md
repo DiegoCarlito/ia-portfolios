@@ -1,4 +1,4 @@
-# Portfólio 3 - IA e Incerteza
+# Portfólio 3 - Tratando Incerteza
 
 Este repositório contém 3 projetos práticos que exploram o **raciocínio probabilístico** e a tomada de decisão sob incerteza. Os trabalhos abordam desde a modelagem de sistemas especialistas para diagnóstico médico até a análise de séries temporais financeiras e rastreamento físico. Todos os projetos foram desenvolvidos em Python.
 
