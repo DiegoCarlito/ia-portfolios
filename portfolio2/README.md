@@ -28,5 +28,5 @@ Cada projeto está em sua própria pasta e contém seu código-fonte e documenta
     ```
 2.  Execute o script Python:
     ```bash
-    python3 busca_labirinto.py
+    python3 busca_nao_informada.py
     ```
