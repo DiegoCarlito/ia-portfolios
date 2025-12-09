@@ -26,11 +26,17 @@ Este portfólio contém 6 projetos práticos que abordam os fundamentos dos mét
 
 * **[Acessar Projetos do Portfólio 2](./portfolio2/)**
 
-### Portfólio 3 - IA e Incerteza
+### Portfólio 3 - Tratando Incerteza
 
 Este portfólio explora o raciocínio probabilístico e a tomada de decisão sob incerteza. Contém 3 projetos práticos focados na modelagem de sistemas especialistas, análise de séries temporais e rastreamento físico.
 
 * **[Acessar Projetos do Portfólio 3](./portfolio3/)**
+
+### Portfólio 4 - Aprendizado de Máquina
+
+Este portfólio consolida os conhecimentos em Machine Learning através de 4 projetos avançados que cobrem as principais vertentes da área. O foco foi a implementação de pipelines robustos, análise crítica de métricas e uso de arquiteturas de estado da arte para resolver problemas complexos.
+
+* **[Acessar Projetos do Portfólio 4](./portfolio4/)**
 
 ---
 
